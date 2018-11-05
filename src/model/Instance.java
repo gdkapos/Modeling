@@ -5,4 +5,8 @@ public class Instance extends NamedVersionedElement {
     public Tyle getType() {
         return this.type;
     }
+    
+    public List<ProperyValue> getPropertyValues() {
+        return this.propertyValues;
+    }
 }
