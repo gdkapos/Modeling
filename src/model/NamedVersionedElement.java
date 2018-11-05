@@ -1,4 +1,4 @@
-public class NamedVersionedElement {
+public abstract class NamedVersionedElement {
     private String name;
     
     public String getName() {
