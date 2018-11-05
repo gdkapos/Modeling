@@ -1,4 +1,4 @@
-public class Element {
+public abstract class Element {
     private Long id;
     
     public Long getId() {
