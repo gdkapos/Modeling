@@ -1,4 +1,4 @@
-public class Type extends NamedVersionedElement {
+public abstract class Type extends NamedVersionedElement {
     private List<PropertySpecification> propertySpecifications;
     
     public List <PropertySpecification> getPropertySpecifications() {
